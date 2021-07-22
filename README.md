@@ -1,16 +1,36 @@
-### Hi there 👋
+Shuta4 (Nikita)
+===============
 
-<!--
-**Shuta4/shuta4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+--------
 
-Here are some ideas to get you started:
+I am developer since the start of 2020. I am intersted in open source concepts and currently working on implementing it in my life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me
+----------
+
+- [Telegram](https://t.me/Shuta4)
+
+Knowledges
+----------
+
+### Languages
+- Russian
+- English
+
+### Programming languages
+- 1C
+- JavaScript
+- Python
+- C#
+- Java
+- and some others...
+
+### Technologies
+- NPM
+- React
+- Node
+- Express
+- MongoDB
+- SQL
+- Kivy
