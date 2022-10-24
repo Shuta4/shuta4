@@ -1,4 +1,4 @@
-Shuta4 (Nikita)
+Nikita "Shuta4" Skirdin
 ===============
 
 About me
