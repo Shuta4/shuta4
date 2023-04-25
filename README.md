@@ -9,7 +9,7 @@ I am developer since the start of 2020. I am intersted in open source concepts a
 Contact me
 ----------
 
-- [Telegram](https://t.me/Shuta4)
+- [@shuta4:matrix.org](https://matrix.to/#/@shuta4:matrix.org)
 
 Knowledges
 ----------
